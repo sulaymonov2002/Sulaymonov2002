@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  height: 100vh;
+  padding-top: calc((100vh - 400px) / 2);
+  background: #ebecf0;
+}
+
+.container {
+  width: 840px;
+  margin: 0 auto;
+}
+
+.box {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background-color: #eaecf0;
+  margin-left: 10px;
+  margin-top: 10px;
+  border-radius: 25px;
+  border: 0.5px solid #fff;
+}
+
+.box:first-child {
+  box-shadow: -4px -6px 6px 0px #ffffff, 0px 1px 4px 2px #00000078;
+}
