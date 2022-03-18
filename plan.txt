@@ -1,0 +1,29 @@
+----------- 20.01.22 ----------- (2)
+
+1 -> [HTML & CSS] modulini tushuntirib berish
+
+2 -> Web Fundamentals
+      ✅ How the Web Works
+      ✅ Inspecting HTTP Requests and Responses
+      ✅ Write HTML codes
+      ✅ Write CSS codes
+      ✅ Formatting Code
+      ✅ Inspecting Pages Using Chrome DevTools
+      ✅ We Validate Our Codes (HTML || CSS)
+           🎁 HTML -> https://validator.w3.org/
+           🎁 CSS -> https://jigsaw.w3.org/css-validator/
+
+3 -> HTML Basics
+      ✅ Introduction (Kirish)
+            🎁 ASCII    -   https://www.asciitable.com/
+            🎁 UNICODE  -   https://unicode-table.com/
+      ✅ The Head Section (head bo'limi)
+      ✅ Text
+      ✅ Entities (Obektlar)
+      ✅ Hyperlinks (Havolalar)
+            🎁 Redirect new HTML file (yangi html faylga yonaltirish)
+            🎁 Download
+            🎁 Go to section
+      ✅ Video and Audio
+      ✅ Lists (ketma-ketliklar)
+      ✅ Tables (Jadval)
