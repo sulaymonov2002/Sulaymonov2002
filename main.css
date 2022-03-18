@@ -1,0 +1,30 @@
+body {
+  margin: 1rem;
+}
+
+.boxes {
+  width: 100%;
+  border: 2px solid red;
+  position: relative;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+}
+
+.box-one {
+  background-color: dodgerblue;
+}
+
+.box-three {
+  background-color: green;
+}
+
+.box-two {
+  background-color: #efed40;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  /* z-index: 1; */
+}

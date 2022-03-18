@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 40px 20px 0 20px;
+}
+.container .heading {
+  width: 50%;
+  padding-bottom: 50px;
+}
+.container .heading h3 {
+  font-size: 3em;
+  font-weight: border;
+  border-bottom: 3px solid #222;
+  padding-bottom: 10px;
+}
+.container .heading h3 span {
+  font-weight: 100;
+}
+.container .box {
+  display: flex;
+  flex-direction: row;
+  
+}
+.container .box .dream {
+  display: flex;
+  flex-direction: column;
+}
+
+.flower {
+  margin: 5px;
+  width: 97%;
+  height: auto;
+}
