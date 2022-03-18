@@ -1,0 +1,57 @@
+----------- 27.01.22 ----------- (7)
+
+1 -> Checking HomeWorks 👍🏻
+
+2 -> Repeat last lesson
+
+3 -> Code-Review 👍🏻
+
+4 -> HTML-BASICS
+    🔷 Questions
+         ✅ Html nima va uning yoyilmasi ? Javob: HyperText Markup Language. Gipermatinni hisoblash tili hisoblanadi.
+         ✅ Web saytlar nechta qisimdan tashkil topadi ?  Javob: Websaytlar Fronted va Backenddan tashkil topgan.
+         ✅ Web saytlar qanday prinsip asosida ishlaydi ? Javob: Kilent so'rov jo'natadi Web sayt javob beradi.
+         ✅ HTML kodlarimiz ichidagi ushbu tag [<title>Mening Sahifam</title>] vazifasi nima ? Javob: Sahifaning majburiy elementi <title> </title> teglari hisoblanadi.
+         ✅ Xozirda biz HTML ning nechanchi versiasidan foydalanamiz Javob: HTML5
+         ✅ HTML kodlarimiz ichidagi ushbu tag [<meta charset="UTF-8" />] vazifasi nima ? Javob: UNICODE asosida ishlaydigan kodlash jadvali.
+         ✅ Absolute path va relative path larga bittadan misol yozing. absolute:  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height="200px" width="200px">
+         relative:  <img src="images/river.jpg" height="200px" width="200px">
+         ✅ Biz loyihamizdagi rasmni yuklashimiz uchun bizga Absolute path kerakmi yoki Relative path ? Javob: Absolute path kerak bo'ladi.
+         ✅ Block element va Inline Element farqlarini tushuntirib bering ? Javob: Block elementlar har doim yangi qatordan boshlanadi.
+Block elementlar o'zi turgan qatorni to'liqligicha egallaydi (iloji boricha chapga va o'ngga cho'ziladi).
+Block elementlar tepa va pastdan kenglikka (margin) ega bo'ladi.
+Inline elementlar yangi qatordan boshlanmaydi.
+Inline elementlar faqat o'ziga keraklicha bo'lgan joyni oladi.
+Inline elementlar tepa va pastdan kenglikka (margin) ega bo'lmaydi.
+         ✅ HTML da block va inline elementlar uchun bir nechta misollar keltiring. Javob: <h1>Block element</h1>; <b>Qalin</b> va <i>yotiq</i> matn.
+
+    🔷 Tasks
+         ✅ https://ibb.co/6nq3wKv (entities) -> entities 👍🏼
+         ✅ https://ibb.co/nB7w2J5 (download) -> download 👍🏼
+         ✅ https://ibb.co/9rQN9Vs (table) -> table👍🏼
+         ✅ https://ibb.co/J3CBG0w (colors) -> colors 👍🏼
+         ✅ https://ibb.co/64jVpJf (list) -> list 👍🏼
+
+4 -> CSS-BASICS
+    🔷 Questions
+         ✅ HTML faylda nechta yol bilan elementlarga style berish mumkin ? Javob: 3ta yo'l bilan inline; enternal; external;
+         ✅ Selector lar nima uchun kerak ? Javob: CSS selektori- bu komponent CSS qoidalari aniq belgilash uchun javobgardir html teglari, ushbu qoidada ko'rsatilgan tashqi ko'rinish uslublari qo'llaniladi.
+          Shunday qilib, brauzer sahifa kodining qaysi elementlariga maxsus dizayn uslublari qo'llanilishi kerakligini selektorlar tufayi tushunadi.
+         ✅ Bizda jami nechta turdagi selectorlar bor ? Javob: 4 ta.
+         ✅ Pseudo class va oddiy class selectorning farqi nimada ?
+         ✅ Specificity nima ?
+         ✅ Specificity dagi xar bir bolimning manosini tushuntiring (0,0,0,0,0)
+         ✅ Attribute selectorga misol yozing.
+         ✅ Relational Selector lar ichida, ozidan keyingi keladigan(birodar)  elementni tanlash uchun ishlatiladigan belgini yozing.
+         ✅ Pseudo Class uchun misol yozing va nima manoni anglatishini tushuntiring.
+         ✅ [::selection] ushbu selector qaysi turdagi selectorga kiradi
+         ✅ [border: 1px solid yellow] ushbu korsatilgan kod bizda qanday natija korsatadi
+
+    🔷 Tasks
+         ✅ https://ibb.co/Bnh42gZ (ID and TYPE) -> id-type
+              🤝 ushbu style ni faqat ID va TYPE selectordan foydalanib yarating 👍🏼
+         ✅ https://ibb.co/7RbWTq5 (pseudo selector) -> marks 👍🏼
+         ✅ https://ibb.co/GxVQ2Ds (psedo selector) -> list
+         ✅ https://bit.ly/3IKQ9YQ (create template) -> template
+
+
