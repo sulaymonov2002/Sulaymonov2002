@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #192F48;
+}
+#head{
+    
+height: 18px;
+left: 44.61%;
+right: 44.66%;
+top: calc(50% - 18px/2 - 406.5px);
+
+font-family: Karla;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+line-height: 18px;
+
+
+text-align: center;
+letter-spacing: 2.8125px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+#Ready{
+    
+    left: 34.11%;
+    right: 34.06%;
+    top: 18.52%;
+    bottom: 71.36%;
+
+    font-family: Karla;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 56px;
+
+
+    text-align: center;
+    letter-spacing: -2.52632px;
+
+    color: #FFFFFF;
+}
+
+.container-1{
+    display: flex;
+    justify-content:center ;
+}
+.container-1 div{
+    
+    padding: 11px;
+    border-radius: 3%;
+    font-size: 12px;
+}
+/* for Basic box */
+.box-1{
+    color: whitesmoke;
+    background-color: rgb(28, 77, 123);
+    position: absolute;
+    top: 250px;
+    width: 14%;
+    left: 33%;
+    right: 22%;
+
+}
+.buttonStart{
+    
+    width: 122px;
+    height: 32px;
+    font-size: 12px;
+    border-radius: 2px;
+    border:none;
+    background-color: rgb(47, 109, 242);
+    color: whitesmoke;
+}
+.buttonStart:hover{
+    background-color: rgb(44, 94, 201);
+    color: white;
+}
+.buttonStart:active{
+    background-color: #0e395b; 
+    color: white;
+}
+.delated{
+    color: gray;
+}
+
+
+/* for PRO box */
+.box-2{
+    color:goldenrod;
+    background-color:rgb(252, 238, 190);
+    position: absolute;
+    top: 250px;
+    width: 14%;
+    left: 51%;
+    right: 90%;
+}
+.buttonStartPro{
+    
+    width: 122px;
+    height: 32px;
+    font-size: 12px;
+    border-radius: 2px;
+    border:none;
+    background-color: rgb(193, 82, 13);
+    color: whitesmoke;
+}
+.buttonStartPro:hover{
+    background-color: rgb(123, 51, 20);
+    color: white;
+}
+.buttonStartPro:active{
+    background-color: #542e0d; 
+    color: white;
+}
+.delated{
+    color: gray;
+}

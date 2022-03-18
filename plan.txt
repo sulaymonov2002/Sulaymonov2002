@@ -1,0 +1,45 @@
+----------- 24.01.22 ----------- (4)
+
+1 -> Checking HomeWorks
+
+2 -> Repeat last lesson
+
+3 -> HTML Basics
+     🔷 Tables (Jadval)
+            ✅ tr -> table row
+            ✅ td -> table data
+            ✅ th -> table heading
+            ✅ thead -> table head
+            ✅ tbody -> table body
+            ✅ colspan -> table col added
+            ✅ rowspan -> table row added
+
+5 -> CSS Basics
+      🔷 Providing CSS (CSS ni boglash)
+           ✅ Inline    -> Attribute yordamida
+           ✅ Internal  -> Style tag yordamida
+           ✅ External  -> Link tag yordamida
+
+      🔷 Providing priority (Boglanuvchilar ustunligi)
+           ✅ Inline    -> First
+           ✅ Internal  -> Second
+           ✅ External  -> Third
+
+      🔷 Basic Selectors
+           ✅ TYPE
+           ✅ ID
+           ✅ CLASS
+           ✅ ATTRIBUTE
+
+      🔷 Relational Selectors
+         ✅ [ ] -> descendant selector (avlod selector)
+         ✅ [>] -> child selector (bola selector)
+         ✅ [+] -> adjacent sibling selector (qoshni aka uka selector)
+         ✅ [+] -> adjacent sibling selector (qoshni aka uka selector)
+
+      🔷 Pseudo Class Selectors
+
+
+
+🔗 Link
+    🎁

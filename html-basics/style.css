@@ -1,0 +1,36 @@
+header {
+  height: 100px;
+  line-height: 100px;
+}
+nav {
+  margin-top: 1px;
+  height: 100px;
+  line-height: 100px;
+}
+.box {
+  background-color: blue;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+section{
+    height: 500px;
+    margin-top: 1px;
+    line-height: 500px;
+    width: 70%;
+    float: left;
+}
+aside{
+    height: 500px;
+    margin-top: 1px;
+    line-height: 500px;
+    width: 30%;
+    float: left;
+}
+footer{
+    height: 100px;
+    margin-top: 1px;
+    line-height: 100px;
+    float: left;
+    width: 100%;
+}
