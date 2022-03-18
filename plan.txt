@@ -1,0 +1,63 @@
+----------- 26.01.22 ----------- (6)
+
+1 -> Checking HomeWorks
+
+2 -> Repeat last lesson
+
+3 -> CSS Basics
+      🔷 Pseudo Class Selectors
+           ✅ :hover
+           ✅ :active
+           ✅ :focus
+
+      🔷 Selectors Specificity
+           ✅ Explain site -> https://css-tricks.com/specifics-on-css-specificity/
+           ✅ SITE -> https://specifishity.com/
+
+      🔷 Pseudo-element Selectors
+           ✅ ::first-latter
+           ✅ ::first-line
+           ✅ ::selection
+           ✅ ::before
+           ✅ ::after
+
+      🔷 :not pseudo-class selector
+           ✅ :not(simple selector)
+           ✅ Negations may not be nested (ichma-ich negativlardan foydalanish mumkin emas) -> :not(:not)
+           ✅ no specificity
+           ✅ not use pseudo-element selectors
+           ✅ go to example
+
+      🔷 :where pseudo-class selector [:where(...selectors[])]
+           ✅ main :where(h1,h2,h3)
+           ✅ write example
+
+      🔷 :is pseudo-class selector [:is(...selectors[])]
+           ✅ :is(main,aside,article) :is(h1,h2,p)
+           ✅ write example
+
+      🔷 Inheritance
+      🔷 Colors
+           ✅ Named colors
+           ✅ RGB
+           ✅ HSL | HSV
+
+      🔷 Gradients
+           ✅ Linear-gradient
+           ✅ Radial-gradient
+
+      🔷 Borders
+           ✅ border-type
+           ✅ position
+           ✅ border-style
+           ✅ border-width
+           ✅ trbl(top,right,bottom,left)
+           ✅ vh (vertical, horizontal)
+
+      🔷 Practice
+           ✅ FIGMA -> https://bit.ly/33RhCsL
+
+🔗 Link
+    🎁 https://specifishity.com/
+    🎁 https://cssgradient.io/
+    🎁 https://bit.ly/33RhCsL

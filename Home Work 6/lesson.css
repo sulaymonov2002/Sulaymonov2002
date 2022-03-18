@@ -1,0 +1,96 @@
+
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Mada', sans-serif;   
+}
+#cgBlends{
+    position: absolute;
+    top: 1.6%;
+    left: 9%;
+}
+#table{
+    color: #CC00FF;
+    position:absolute;
+    font-family: 'Mada', sans-serif;   
+    font-size: 211% ;
+     top: 3%;
+   right: 6%;
+}
+.thstyle{
+    width: 20px;
+}
+#round{
+    background: linear-gradient(140deg, #9500FF 20%, #ffffff 50%);
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+
+    position: absolute;
+    top: 152px;
+    right: 12%;
+}
+#raketa{
+    position: absolute;
+    top: 0px;
+
+    width: 500px;
+    height: auto;
+    right: 10%;
+}
+#welcome{
+    position:absolute;
+    top: 20%;
+    left: 9%;
+
+    font-family: 'Mada', sans-serif;
+    font-size: 451%;
+        
+}
+#aboard{
+    width: 271px;
+    
+    font-family: 'Mada', sans-serif;
+    font-size: 351%; 
+    background: linear-gradient(90deg, #9500FF 30.84%, #CC00FF 60%);
+    border-radius: 50%;
+    
+    
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+    position: absolute;
+    top: 25.3%;
+    left: 29.3%;
+    
+}
+#joindi_teppasidegi{
+    position: absolute;
+    top: 39%;
+    left: 12.4%;
+    font-size: 30px;
+}
+#join_now{
+    width: 300px;
+    height: 80px;
+    font-size: 211%;
+     
+    
+    color: #ac03fab7;
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    left: 18%;
+    border-width: 5px;
+    border-radius: 5%;
+    border-color: #CC00FF ;   
+    
+}
+#foottable{
+    position: absolute;
+    top: 85%;
+    left: 14%;
+
+}
+.footthstyle{
+    width: 167px;
+}

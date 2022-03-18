@@ -1,0 +1,6 @@
+ol li:nth-child(3n){
+  color: red;
+}
+ol li:not(nth-child){
+  color: blue;
+}
