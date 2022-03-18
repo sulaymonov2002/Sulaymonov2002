@@ -1,0 +1,67 @@
+----------- 21.01.22 ----------- (3)
+
+1 -> Checking HomeWorks
+
+2 -> Repeat last lesson
+
+3 -> Explain new CSS-BASICS section
+
+4 -> HTML Basics
+      🔷 Hyperlinks (Havolalar)
+            ✅ Redirect new HTML file (yangi html faylga yonaltirish)
+               🎁 Relative And Absolute URLS
+            ✅ Download
+            ✅ Go to section
+            ✅ Email Links
+            ✅ Phone Links
+
+      🔷 Installing Live-Server
+
+      🔷 Video & Audio
+            ✅ controls
+            ✅ autoplay
+            ✅ loop
+      🔷 Images
+            ✅ src
+            ✅ alt
+            ✅ title
+            ✅ width
+            ✅ height
+            ✅ align
+                🎁 left | right
+                🎁 top | middle | bottom
+
+      🔷 Lists (Royhatlar)
+            ✅ List Types
+              🎁 ol -> ordered list (tartiblangan)
+              🎁 ul -> unordered list (tartiblanmagan)
+              🎁 dl -> definition list (tarif)
+            ✅ Nested List
+      🔷 Tables (Jadval)
+            ✅ tr -> table row
+            ✅ td -> table data
+            ✅ th -> table heading
+            ✅ thead -> table head
+            ✅ tbody -> table body
+            ✅ colspan -> table col added
+            ✅ rowspan -> table row added
+
+4 -> CSS Basics
+      🔷 Providing CSS (CSS ni boglash)
+           ✅ Inline    -> Attribute yordamida
+           ✅ Internal  -> Style tag yordamida
+           ✅ External  -> Link tag yordamida
+
+      🔷 Providing priority (Boglanuvchilar ustunligi)
+           ✅ Inline    -> First
+           ✅ Internal  -> Second
+           ✅ External  -> Third
+
+      🔷 Basic Selectors
+           ✅ TYPE
+           ✅ ID
+           ✅ CLASS
+           ✅ ATTRIBUTE
+      🔷
+      🔷
+
