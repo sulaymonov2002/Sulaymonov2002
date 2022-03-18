@@ -1,0 +1,64 @@
+----------- 25.01.22 ----------- (5)
+
+1 -> Checking HomeWorks
+
+2 -> Repeat last lesson
+
+3 -> CSS Basics
+      🔷 Relational Selectors
+         ✅ [ ] -> descendant selector (avlod selector)
+         ✅ [>] -> child selector (bola selector)
+         ✅ [+] -> adjacent sibling selector (qoshni aka uka selector)
+         ✅ [~] -> adjacent sibling selector (qoshni aka uka selector)
+
+      🔷 Pseudo Class Selectors
+         ✅ :root
+         ✅ :empty
+         ✅ :first-child
+         ✅ :first-of-type
+         ✅ :last-child
+         ✅ :last-of-type
+         ✅ :nth-child(n)
+              🎁 odd(toq)
+              🎁 even(juft)
+         ✅ :nth-last-child(n)
+         ✅ :nth-of-type(n)
+         ✅ :nth-last-of-type(n)
+         ✅ :visited
+         ✅ :hover
+         ✅ :active
+         ✅ :focus
+         ✅ :not
+
+      🔷 Pseudo-element Selectors
+         ✅ ::first-latter
+         ✅ ::first-line
+         ✅ ::selection
+         ✅ ::before
+         ✅ ::after
+
+      🔷 Selectors Specificity
+      🔷 Inheritance
+      🔷 Colors
+          ✅ Named colors
+          ✅ RGB
+          ✅ HSL | HSV
+
+      🔷 Gradients
+          ✅ Linear-gradient
+          ✅ Radial-gradient
+
+      🔷 Borders
+          ✅ border-type
+          ✅ position
+          ✅ border-style
+          ✅ border-width
+          ✅ trbl(top,right,bottom,left)
+          ✅ vh (vertical, horizontal)
+
+      🔷 Practice
+
+
+🔗 Link
+    🎁 https://specifishity.com/
+    🎁 https://cssgradient.io/
