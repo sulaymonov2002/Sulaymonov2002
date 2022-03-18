@@ -1,0 +1,48 @@
+----------- 27.01.22 ----------- (7)
+
+1 -> Checking HomeWorks 👍🏻
+
+2 -> Repeat last lesson 
+
+3 -> CSS Basics
+
+      🔷 :where pseudo-class selector [:where(...selectors[])]
+           ✅ main :where(h1,h2,h3)
+           ✅ write example
+
+      🔷 :is pseudo-class selector [:is(...selectors[])]
+           ✅ :is(main,aside,article) :is(h1,h2,p)
+           ✅ write example
+
+      🔷 Inheritance
+      🔷 Colors
+           ✅ Named colors
+           ✅ RGB
+           ✅ HSL | HSV
+
+      🔷 Gradients
+           ✅ Linear-gradient
+           ✅ Radial-gradient
+
+      🔷 Borders
+           ✅ border-type
+           ✅ position
+           ✅ border-style
+           ✅ border-width
+           ✅ trbl(top,right,bottom,left)
+           ✅ vh (vertical, horizontal)
+
+      🔷 Practice
+           ✅ FIGMA ->
+
+🔗 Link
+    🎁 https://specifishity.com/
+    🎁 https://cssgradient.io/
+    🎁 https://bit.ly/33RhCsL
+
+
+
+// My Homework
+  .inner ~ p:nth-child(2) {
+  color: red;
+}

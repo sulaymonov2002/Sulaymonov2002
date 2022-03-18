@@ -1,0 +1,7 @@
+1 -> Vazifa
+      ✅ ikkinchi marta qilinmasa ota onamiz bilan gaplashamiz
+      ✅ vazifani qilish uchun qilingan ishlarni korsatish
+2 -> Juma Kuni
+      ✅ Hafta davomida otilgan mavzular boyicha savol javob otqazamiz
+3 -> Code review
+      ✅ har kuni ikkita bola

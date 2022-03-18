@@ -1,0 +1,148 @@
+/* cootels uchun */
+#cootels{
+    position: absolute;
+    top: 1%;
+    left: 100px;
+
+    font-family: 'Montserrat', sans-serif;
+    color: #192252;
+}
+/* table uchun */
+.table{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 5.5%;
+    left: 510px;
+
+    font-family: 'Montserrat', sans-serif;
+    color: #192252;
+}
+.table a{
+    width: 150px;
+    text-decoration: none;
+    color: #192252;
+}
+/* knopka uchun uchun */
+.button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 14px 16px;
+    color: #fff;
+
+    position: absolute;
+    width: 121px;
+    border-radius: 7px;
+    height: 47px;
+    left: 1199px;
+    top: 30px;
+
+    background: #0E1734;
+    border: none;
+
+    transition: ease-out 0.23s;
+    outline: none;
+}
+.button:hover{
+    box-shadow: inset 121px 0 0 0 #08637a ;
+}
+.button:active{
+    box-shadow: inset 121px 0 0 0 #1db7dd ;
+}
+
+/* rasim uchun */
+
+#uy3{
+    position: absolute;
+    width: 160px;
+    height: auto;
+    left: 1120px;
+    top: 130px;
+
+    box-shadow: 15px 15px 100px ;
+}
+#uy2{
+    position: absolute;
+    width: 160px;
+    height: auto;
+    left: 936px;
+    top: 201px;
+
+    box-shadow: 15px 15px 100px ;
+}
+#uy1{
+    position: absolute;
+    width: 160px;
+    height: auto;
+    left: 750px;
+    top: 130px;
+    
+    box-shadow: 15px 15px 100px ;
+}
+
+/* title uchun */
+
+#title{
+    position: absolute;
+    width: 587px;
+    height: 144px;
+    left: 121px;
+    top: 215px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 150%;
+    
+    color: #192252;
+        
+}
+#paragraf{
+    position: absolute;
+    width: 435px;
+    height: 81px;
+    left: 121px;
+    top: 383px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 150%;
+    
+    
+    color: #848FAC;    
+}
+
+/* buttonReservation uchun */
+
+.buttonReservation{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 14px 16px;
+    color: #fff;
+
+    position: absolute;
+    width: 121px;
+    border-radius: 7px;
+    height: 47px;
+    left: 121px;
+    top: 496px;
+
+    background: #0E1734;
+    border: none;
+
+    transition: ease-out 0.23s;
+    outline: none;
+}
+.buttonReservation:hover{
+    box-shadow: inset 121px 0 0 0 #08637a ;
+}
+.buttonReservation:active{
+    box-shadow: inset 121px 0 0 0 #1db7dd ;
+}

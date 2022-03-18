@@ -1,0 +1,39 @@
+/* body {
+  height: max-content;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 400px;
+  background: #efed40;
+  font-size: 35px;
+  text-transform: uppercase;
+}
+
+a:focus {
+  background-color: red;
+  cursor: pointer;
+} */
+/*
+h1 {
+  user-select: none;
+}
+h1::selection {
+  background: #02b432;
+  color: #fff;
+} 
+
+ol li:not(:nth-child(3n)) {
+  font-size: 30px;
+}
+
+/* ol li:not(.ignore) {
+  font-size: 30px;
+} */
