@@ -1,0 +1,34 @@
+----------- 31.01.22 ----------- (9)
+
+1 -> Checking HomeWorks 👍🏻
+
+2 -> Code-Review(Abdulxoliq, Otabek) 👍🏻
+
+3 -> Repeat last lessons 👍🏻
+
+4 -> CSS Basics
+      🔷 Gradients  👍🏻
+          ✅ Linear-gradient
+          ✅ Radial-gradient
+
+      🔷 Shadows
+          ✅ box-shadow 👍🏻
+              🎁 outset shadow
+              🎁 inset shadow
+          ✅ text-shadow 👍🏻
+          ✅ drop-shadow 👍🏻
+
+5 -> Repeat first part (basic)
+          ✅ WEB Introduction
+          ✅ HTML Basics
+          ✅ CSS Basics
+
+6 -> Explain new part (advanced)
+
+7 -> Layout
+       ✅ Box Model
+
+
+  🔗 Links
+       ✅ https://cssgradient.io/
+       ✅ https://css-tricks.com/the-css-box-model/

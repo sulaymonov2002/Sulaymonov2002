@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  display: flex;
+  
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  background: #dde1e7;
+}
+.boxshadow1 {
+    margin: 10px;
+  height: 150px;
+  width: 150px;
+  background: #dde1e7;
+  border-radius: 20px;
+  box-shadow: -3px -3px 7px #ffffff73, 3px 3px 5px rgba(94, 104, 121, .288 );
+
+}
+.boxshadow2{
+    margin: 20px;
+    height: 150px;
+    width: 150px;
+    background: #dde1e7;
+    border-radius: 20px;
+    box-shadow: -5px -5px 10px #ffffff73, 5px 5px 10px rgba(94, 104, 121, .288 );
+}
+.boxshadow3{
+    margin: 30px;
+    height: 150px;
+    width: 150px;
+    background: #dde1e7;
+    border-radius: 20px;
+    box-shadow: -10px -10px 15px #ffffff73, 10px 10px 15px rgba(94, 104, 121, .288 );
+}
+.boxshadow4{
+    margin: 10px;
+    height: 150px;
+    width: 150px;
+    background: #dde1e7;
+    border-radius: 20px;
+    box-shadow: -15px -15px 20px #ffffff73, 15px 15px 20px rgba(94, 104, 121, .288 );
+}
+.container2{
+    display: flex;
+  
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  background: #dde1e7;
+}
+.boxshadow5{
+    
+    margin: 10px;
+    height: 150px;
+    width: 150px;
+    background: #dde1e7;
+    border-radius: 20px;
+    box-shadow: inset -15px -15px 20px #ffffff73, inset 10px 10px 20px rgba(94, 104, 121, .288 );
+  
+}
+.boxshadow6{
+    
+    margin: 20px;
+    height: 150px;
+    width: 150px;
+    background: #dde1e7;
+    border-radius: 20px;
+    box-shadow: inset -10px -10px 20px #ffffff73, inset 5px 5px 10px rgba(94, 104, 121, .288 );
+  
+}
+.boxshadow7{
+    
+    margin: 30px;
+    height: 150px;
+    width: 150px;
+    background: #dde1e7;
+    border-radius: 20px;
+    box-shadow: inset -5px -5px 10px #ffffff73, inset 5px 5px 10px rgba(94, 104, 121, .288 );
+  
+}
+.boxshadow8{
+    
+    margin: 10px;
+    height: 150px;
+    width: 150px;
+    background: #dde1e7;
+    border-radius: 20px;
+    box-shadow: inset -3px -3px 7px #ffffff73, inset 3px 3px 5px rgba(94, 104, 121, .288 );
+  
+}

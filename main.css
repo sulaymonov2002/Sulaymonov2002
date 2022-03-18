@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.test {
+  background-color: blue;
+}
+
+.box {
+  width: 200px;
+  height: max-content;
+  background-color: #efed40;
+  padding: 16px;
+  margin: 2rem;
+  font-size: 40px;
+}
+
+.box :nth-child(3n) {
+  color: blue;
+}
+
+h1::first-letter {
+}

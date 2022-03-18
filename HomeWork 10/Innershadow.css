@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+}
+.container1{
+display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 200px 100px;
+  background: #b0c5e4;
+  margin: 100px 50px;
+}
+.box1{
+  margin: 50px;
+  height: 100px;
+  width: 100px;
+  justify-content: 100px;
+  align-items: 100px;
+  background: #0c1118;
+  border-radius: 10px;
+ 
+}
