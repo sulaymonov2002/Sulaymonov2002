@@ -1,0 +1,42 @@
+----------- 09.02.22 ----------- (16)
+
+1 -> Checking Homeworks
+2 -> Code Review(Dilshodbek, Murtozxon)
+3 -> Grid
+      🔷 Important Terminology (Muhim terminlar)
+           ✅ Grid Container
+           ✅ Grid Line
+           ✅ Grid Track
+           ✅ Grid Area
+           ✅ Grid Item
+           ✅ Grid Cell
+           ✅ Grid Gap
+
+      🔷 Parent Properties
+           ✅ display
+               🎁 grid
+
+           ✅ sizes units
+               🎁 px
+               🎁 auto
+               🎁 %
+               🎁 fr
+
+           ✅ grid-template-columns
+           ✅ grid-template-rows
+           ✅ grid-template: rows / columns
+           ✅ justify-items
+               🎁 stretch
+               🎁 start
+               🎁 end
+               🎁 center
+           ✅ align-items
+               🎁 stretch
+               🎁 start
+               🎁 end
+               🎁 center
+               🎁 baseline
+           ✅ place-items
+           ✅ justify-content
+           ✅ align-content
+
