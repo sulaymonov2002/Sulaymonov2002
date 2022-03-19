@@ -1,0 +1,16 @@
+----------- 24.02.22 ----------- (27)
+
+1 -> Checking Homeworks
+
+2 -> Practice (Sudoku)
+       ✅ sudoku.com
+
+3 -> Git
+       ✅ Installing git
+       ✅ Create repository
+       ✅ Add Remote
+       ✅ Committed Codes
+       ✅ Pushed Codes
+
+4 -> Deploying Our Web Apps
+       Login Netlify with github

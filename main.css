@@ -1,0 +1,11 @@
+body {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  background-color: #efed40;
+}
+
+h1 {
+  font-size: 80px;
+  font-family: monospace;
+}

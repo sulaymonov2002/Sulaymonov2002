@@ -1,0 +1,136 @@
+/*
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Mulish:wght@400;600;700&display=swap');
+
+
+
+:root{
+    --main-color:lineargradient: rgba(205, 16, 255, 1),
+    rgba(159, 6, 255, 1);
+    --blue:rgba(0, 26, 73, 1);
+    --border-radius:95% 4% 97% 5%/4% 94% 3% 95%;
+    --border-radius-hover:4% 94% 6% 95%/95% 4% 92% 5%;
+    --border:.2rem solid #443;
+
+}
+
+
+
+
+
+
+
+
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: all .2s linear;
+}
+
+
+body{
+    overflow-x: hidden;
+}
+
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-padding-top: 7rem;
+    scroll-behavior: smooth;
+}
+
+section{
+padding: 3rem 9%;
+}
+
+
+.btn{
+    margin-top: 1rem;
+    display: inline-block;
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 1rem 3rem;
+    background: linear-gradient(44.11deg, #CD10FF 15.75%, #9F06FF 84.63%);
+    border: none    ;
+    color: #fff;
+    border-radius: 5rem;
+   
+}
+
+
+
+.header{
+    
+    top:0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    z-index: 1000;
+    background: #fff;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0, .1);
+    padding: 2rem 9%;
+
+}
+
+.header .logo{
+    font-size: 2.3rem;
+}
+
+.header .logo i{
+    padding-left: .5rem;
+}
+
+.header .navbar a{
+    margin: 0 1rem;
+    font-size: 1.7rem;
+    color: var(--blue);
+}
+.header .navbar a:hover {
+    border-bottom: 0.1rem solid  var(--blue) ;
+    padding-bottom: 0.3rem;
+   
+  }
+  
+
+
+
+.home{
+
+ display: flex;
+ flex-wrap: wrap;
+ align-items: center;
+ gap: 2rem;
+}
+
+
+.home  .content {
+    flex: 1 1 46rem;
+  }
+
+  .home .image img{
+      flex: 1 1 60rem;
+  }
+ 
+  .home .content .title {
+    font-size: 4.5rem;
+    color:var(--blue);
+  }
+  .home .content p{
+    
+        font-size: 1.7rem;
+        color: #4F596A;
+        padding: 1rem 0;
+        line-height: 2;
+  }
+
+
+  */
+
