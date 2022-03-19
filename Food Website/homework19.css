@@ -1,0 +1,236 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 90px;
+  border-bottom: 1px solid #0003;
+}
+.navbar > :first-child {
+  width: 200px;
+  height: auto;
+  position: relative;
+  right: 12%;
+}
+.navbar > input {
+  z-index: 0;
+  width: 30%;
+  height: 47%;
+  border: 1px solid #0003;
+  border-radius: 10px;
+  padding-left: 10px;
+}
+.navbar > :nth-child(3) {
+}
+.navbar > :nth-child(5) {
+  position: relative;
+  left: 160px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* header 1 */
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  margin-top: 30px;
+}
+.header1 {
+  background-image: url(category-restaurants.jpeg);
+  width: 400px;
+  height: 150px;
+  padding: auto;
+  background-size: 100% auto;
+  display: flex;
+  flex-direction: column-reverse;
+  border-radius: 10px;
+}
+.header1 > :first-child {
+  width: 100%;
+  height: 30%;
+  background-color: #efed40;
+  display: flex;
+  align-items: center;
+  font-size: 200%;
+  border-radius: 10px;
+}
+
+.header1right {
+  background-image: url(category-markets.jpeg);
+  width: 870px;
+  height: 150px;
+  padding: auto;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column-reverse;
+  border-radius: 10px;
+}
+.header1right > :first-child {
+  width: 100%;
+  height: 30%;
+  background-color: #0003;
+  display: flex;
+  align-items: center;
+  font-size: 200%;
+  border-radius: 10px;
+  color: #fff;
+  transition: ease-in-out 0.3s;
+}
+.header1right > :first-child:hover {
+  background-color: #efed40;
+  color: #000;
+}
+
+/* header 2 */
+.news {
+  margin-top: 30px;
+  margin-left: 70px;
+  font-size: 30px;
+}
+.head2 {
+  width: 100%;
+  height: 275px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header2photo {
+  display: flex;
+  width: 90.3%;
+  overflow: scroll;
+  gap: 30px;
+}
+.photo1 {
+  transition: ease-in-out 0.13s;
+}
+.photo1:hover {
+  border-bottom: 1px solid blue;
+}
+.photo1 > :first-child {
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+}
+.header2buttons {
+  width: 90%;
+  height: 55px;
+  display: flex;
+
+  overflow: scroll;
+  margin-left: 70px;
+}
+.buttons1 {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  height: auto;
+}
+.button {
+  background-color: #f0f0f0;
+  width: 130px;
+  height: 40px;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  transition: ease-in-out 0.33s;
+}
+.button:hover {
+  background-color: #efed40;
+}
+
+/* header4 */
+
+.header4{
+  margin-top: 40px;
+  
+  display: grid;
+  width: 100%;
+  grid-template: repeat(3, 1fr) repeat(3,1fr) ;
+  grid-template-areas: 
+    'detail detail detail'
+    'detail detail detail'
+  ;
+  justify-content: center;
+  gap: 30px;
+}
+.detail{
+  width: 98.9%;
+  height: 350px;
+  border-radius: 16px;
+  transition: ease-in 0.33s;
+  box-shadow: 0px 3px 10px #0003;
+}
+.detail:hover{
+  box-shadow: 0px 3px 50px #0003;
+}
+.details-text>:first-child{
+  font-size: 22px;
+  margin-left: 6px;
+}
+.details-text>:nth-child(2){
+  color: gray;
+  margin-left: 6px;
+}
+#see{
+  margin-top: 30px;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#see>:first-child{
+  margin-left: 30px;
+  border-radius: 4px;
+  width: 180px;
+  height: 35px;
+  color: #000;
+  background-color:#efed40;
+  font-size: 18px;
+  border: none;
+  transition: ease-in 0.33s;
+}
+#see>:first-child:hover{
+  background-color: #b4b218;
+}
+#see>:first-child:active{
+  background-color: #7c7b1c;
+}
+
+/* footer */
+
+.footer{
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: #2C2C2C;
+  color: white;
+  gap: 20%;
+}
+#see2>:first-child{
+  margin-left: 30px;
+  border-radius: 4px;
+  width: 180px;
+  height: 35px;
+  color: #000;
+  background-color:#efed40;
+  font-size: 18px;
+  border: none;
+  transition: ease-in 0.33s;
+}
+#see2>:first-child:hover{
+  background-color: #b4b218;
+}
+#see2>:first-child:active{
+  background-color: #7c7b1c;
+}

@@ -1,0 +1,40 @@
+----------- 10.02.22 ----------- (16)
+
+1 -> Checking Homeworks
+2 -> Code Review(Otabek)
+3 -> Repeat last lesson
+
+4 -> Grid Continue
+      🔷 Parent Properties
+            ✅ gird-template 👍🏻
+            ✅ grid-template-areas
+
+      🔷 Explicit and Implicit Grids
+            ✅ grid-auto-columns : <track-size> ...;
+            ✅ grid-auto-rows    : <track-size> ...;
+            ✅ grid-auto-flow
+
+      🔷 Child Properties
+            ✅ grid-column-start : <line-number> | <area-name> | span <line-number | area-name>
+            ✅ grid-column-end   : <line-number> | <area-name> | span <line-number | area-name>
+            ✅ grid-row-start    : <line-number> | <area-name> | span <line-number | area-name>
+            ✅ grid-row-end      : <line-number> | <area-name> | span <line-number | area-name>
+            ✅ grid-column       : start-value / end-value
+            ✅ grid-row          : start-value / end-value
+            ✅ grid-area         : <name> | row-start / column-start / row-end / column-end
+            ✅ justify-self
+            ✅ align-self
+            ✅ place-self        : align-self / [justify-self]
+
+      🔷 Sizing Functions
+            ✅ minmax
+            ✅ repeat
+                 🎁 auto-fill
+                 🎁 auto-fit
+
+
+
+
+
+
+
