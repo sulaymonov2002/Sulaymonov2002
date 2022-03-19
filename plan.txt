@@ -1,0 +1,25 @@
+----------- 15.02.22 ----------- (20)
+
+1 -> Checking Homeworks
+2 -> Code Review
+3 -> Practice Media Queries
+        🔷 Macro Layouts
+             ✅ https://storage.googleapis.com/web-dev-uploads/video/HodOHWjMnbNw56hvNASHWSgZyAf2/3KENjI9FiNARctTiKDak.mp4
+             ✅ Examples
+                 🎁 GRID -> https://codepen.io/web-dot-dev/pen/vYJJzMK
+                 🎁 FLEX -> https://codepen.io/web-dot-dev/pen/gOxxdym
+        🔷 Micro Layouts
+
+4 -> Practice - 20
+        🔷 https://www.figma.com/file/6vLCZnDbs0Zvh3vjLGe098/PDP-18?node-id=2401%3A78
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Mulish&family=Righteous&display=swap");
+
+:root {
+     --dark-blue:rgba(1, 38, 81, 1);
+     --blue:rgba(61, 137, 225, 0.16);
+     --btn: #FFA161;
+}
+.container{
+    padding: 2rem 7%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: 0.2s linear;
+}
+html {
+    overflow-x: hidden;
+    scroll-padding-top: 9rem;
+    scroll-behavior: smooth;
+  }
+
+
+  @media (max-width:576px) {
+body{
+    width: 100%;
+
+}
+.header .login{
+    display: none;
+}
+.header .navbar {
+    display: none;
+}
+.icons #menu-btn{
+    display: inline-block;
+}
+
+
+  }
+ 
