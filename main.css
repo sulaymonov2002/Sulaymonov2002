@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+.box {
+  width: 400px;
+  height: 400px;
+  background-color: #efed40;
+  position: relative;
+  --inner-width: 200px;
+  --inner-height: 200px;
+}
+
+.box:active {
+  --inner-width: 100px;
+  --inner-height: 100px;
+}
+.inner-box {
+  position: absolute;
+  width: var(--inner-width);
+  height: var(--inner-height);
+  background-color: red;
+  /* animation: box 3s linear 1s 2; */
+  color: #fff;
+  font-size: 40px;
+  display: grid;
+  place-items: center;
+}
+
+@keyframes box {
+  0%,
+  100% {
+    top: 0;
+    left: 0;
+    background-color: red;
+  }
+  25% {
+    left: calc(100% - var(--inner-width));
+    top: 0;
+    background-color: blue;
+  }
+  50% {
+    left: calc(100% - var(--inner-width));
+    top: calc(100% - var(--inner-height));
+    background-color: green;
+  }
+  75% {
+    left: 0;
+    top: calc(100% - var(--inner-height));
+    background-color: black;
+  }
+}

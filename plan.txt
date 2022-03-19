@@ -1,0 +1,32 @@
+----------- 22.02.22 ----------- (25)
+
+1 -> Checking Homeworks
+
+2 -> Transformations
+         ✅ rotate 👍🏻
+         ✅ scale 👍🏻
+         ✅ translate 👍🏻
+         ✅ skew 👍🏻
+
+3 -> Transitions
+         ✅ transition-delay 👍🏻
+         ✅ transition-duration 👍🏻
+         ✅ transition-timing-function 👍🏻
+         ✅ transition-property 👍🏻
+         ✅ Universal property (Transition) 👍🏻
+         🔗  https://css-tricks.com/almanac/properties/t/transition/ 👍🏻
+         🔗  https://cubic-bezier.com/ 👍🏻
+
+4 -> Animations
+         ✅ animation-name 👍🏻
+         ✅ animation-duration 👍🏻
+         ✅ animation-timing-function 👍🏻
+         ✅ animation-delay 👍🏻
+         ✅ animation-direction
+         ✅ animation-iteration-count 👍🏻
+
+6 ->  Example Animations
+5 ->  Reusable animation
+         🔗 https://animate.style
+
+
