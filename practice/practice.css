@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+
+:root {
+  --bg-color: hsl(250, 17%, 94%);
+  --shadow-main: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 15px 0 rgba(0, 0, 0, 0.1);
+  --shadow-btn: 0 4px 8px 0 rgba(0, 0, 0, 0.09),
+    0 6px 15px 0 rgba(0, 0, 0, 0.09);
+  --cut: rgb(85, 131, 241);
+  --copy: rgb(39, 166, 75);
+  --paste: rgb(242, 185, 42);
+}
+
+* {
+  font-family: Ubuntu;
+}
