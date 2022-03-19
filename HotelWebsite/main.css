@@ -1,0 +1,288 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+body {
+  margin: 70px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  display: flex;
+  width: 100%;
+  height: 90px;
+
+  align-items: center;
+}
+.logo {
+  margin-left: 100px;
+  width: 120px;
+  height: auto;
+}
+.nav-menu {
+  display: flex;
+  align-items: center;
+  width: 800px;
+  height: 60px;
+  margin-left: 660px;
+  gap: 20px;
+  font-size: 25px;
+}
+.menu {
+  text-decoration: none;
+  color: black;
+  transition: ease-in 0.33s;
+  width: 150px;
+}
+.menu:hover {
+  filter: drop-shadow(1px 1px 7px grey);
+}
+.cta {
+  transition: ease-in 0.33s;
+  width: 92px;
+  height: 40px;
+  background-color: #fff;
+  border-radius: 35px;
+  border: 1px solid #999999;
+}
+.cta:hover {
+  background-color: rgb(204, 197, 197);
+}
+/* left1 va right1 */
+.qator-1 {
+  display: flex;
+  width: 1665px;
+  height: 350px;
+  margin-left: 100px;
+  align-items: center;
+}
+.left1 {
+  width: 45%;
+}
+.left1 > :first-child {
+  font-size: 70px;
+}
+.left1:nth-child(2) {
+  color: #555;
+}
+.right1 {
+  width: 50%;
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.box1 {
+  box-shadow: 0px 2px 10px rgb(197, 190, 190);
+  border-radius: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  width: 500px;
+  height: 250px;
+}
+.jun {
+  font-size: 20px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fafafa;
+  width: 210px;
+  height: 56px;
+}
+.united {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 335px;
+  height: 56px;
+  border-radius: 8px;
+  padding-left: 45px;
+  background-color: #fafafa;
+}
+.united > :first-child {
+  display: flex;
+  align-self: flex-end;
+  width: 56px;
+  height: 56px;
+  border-radius: 8px;
+  margin-left: 181px;
+}
+.head-photo {
+  display: flex;
+  margin-left: 95px;
+  gap: 20px;
+  width: 1590px;
+  height: 720px;
+}
+.head-photo > :first-child {
+  width: 1200px;
+  height: auto;
+}
+.photo-half {
+  padding-top: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+}
+.photo-half > :first-child {
+  width: 370px;
+  height: auto;
+}
+.photo-half:nth-child(2) {
+  width: 370px;
+  height: auto;
+}
+.photo-yozuv {
+  position: absolute;
+  color: #fff;
+  width: 800px;
+  height: 50px;
+  top: 1030px;
+  left: 400px;
+  font-size: 55px;
+}
+.facilities {
+  display: flex;
+  margin-top: 100px;
+  margin-left: 95px;
+  width: 1590px;
+  height: 200px;
+}
+.left2 {
+  display: flex;
+  flex-direction: column;
+
+  width: 50%;
+}
+.left2 > :first-child {
+  font-size: 50px;
+}
+.left2 > :nth-child(2) {
+  color: grey;
+}
+.right2 {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+.right2 > :first-child {
+  margin-right: 25px;
+  text-decoration: none;
+  color: #3771c8;
+}
+.sariq {
+  width: 109px;
+  height: 6px;
+  border: 1px solid #efed40;
+}
+.sariq-rasmlar {
+  display: flex;
+  justify-content: space-around;
+
+  width: 1590px;
+  height: 410px;
+  margin-left: 95px;
+  margin-top: 40px;
+}
+.yellow-picture {
+  width: 340px;
+  height: 320px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  box-shadow: 0 5px 20px rgba(187, 184, 184, 0.6);
+}
+.yellow-picture:hover {
+  box-shadow: 0 15px 25px rgba(187, 184, 184, 0.6);
+}
+.luxury-hotels {
+  display: flex;
+  margin-left: 95px;
+  width: 1590px;
+  height: auto;
+
+  column-gap: 100px;
+}
+.photo-luxury {
+  width: 800px;
+
+  height: auto;
+}
+.photo-luxury > :first-child {
+  width: 800px;
+  height: auto;
+}
+.luxury-text {
+  width: 50%;
+  height: 670px;
+}
+.luxury-text > :first-child {
+  font-size: 50px;
+}
+.luxury-text > :nth-child(2) {
+  font-size: 21px;
+  color: grey;
+}
+.thounsands {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: 100px;
+}
+.luxury-button {
+  margin-top: 100px;
+  width: 160px;
+  height: 50px;
+  border-radius: 8px;
+  background-color: #3771c8;
+  color: #fff;
+  border: none;
+  transition: ease-in 0.3s;
+}
+.luxury-button:hover {
+  background-color: #4b8ef3;
+}
+.luxury-button:active {
+  background-color: #053070;
+}
+.companies {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1590px;
+  height: 80px;
+  margin-top: 100px;
+  margin-left: 90px;
+}
+.girl1 {
+  background-color: #f9d15c;
+  border-radius: 12px;
+  display: flex;
+  width: 1590px;
+  height: 500px;
+  margin-top: 100px;
+  margin-left: 90px;
+}
+.girl-text {
+  margin-top: 60px;
+  margin-left: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 430px;
+  height: 350px;
+}
+.girl-text > :nth-child(3) {
+  font-size: 25px;
+}
+.girl-text > :last-child {
+  width: 60px;
+  height: 5px;
+  background-color: #053070;
+}

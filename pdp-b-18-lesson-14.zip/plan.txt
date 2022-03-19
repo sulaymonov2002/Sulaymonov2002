@@ -1,0 +1,21 @@
+----------- 07.02.22 ----------- (14)
+
+1 -> Checking Homeworks
+
+2 -> Code-Review(Dilshodbek, Murtozxon)
+
+3 -> Practices
+       ✅ URL: https://www.figma.com/file/6vLCZnDbs0Zvh3vjLGe098/PDP-18?node-id=1285%3A65
+
+4 -> Using Github
+       ✅ install git
+       ✅ git commands
+            🎁 git init
+            🎁 git add .
+            🎁 git commit -m "message for commit"
+            🎁 git remote add origin "our_remote_url"
+            🎁 git push origin master
+5 -> Deploying Our Site
+       ✅ install node-js
+       ✅ install netlify-cli -> "npm i -g netlify-cli"
+       ✅ command "netlify deploy"
