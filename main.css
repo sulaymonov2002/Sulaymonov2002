@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  background-color: dodgerblue;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 80px;
+  font-family: 'Times New Roman', Times, serif;
+}

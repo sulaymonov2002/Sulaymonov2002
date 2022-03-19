@@ -1,0 +1,40 @@
+----------- 21.02.22 ----------- (24)
+
+1 -> Checking Homeworks
+
+2 -> Code review
+
+3 -> Forms
+      🔷Build Form
+         ✅ Wrap with abbreviation
+            🎁 label
+            🎁 input
+            🎁 button
+
+      🔷 Styling Form
+          ✅ Wrap with abbreviation
+            🎁 label
+            🎁 input
+            🎁 button
+
+      🔷 CSS Framework
+         ✅ Bootstrap
+            🎁 form-label
+            🎁 form-control
+            🎁 w-100 | w-50 | w-75 | w-25
+         ✅ Antd (ant-design)
+
+      🔷 Text Inputs
+         ✅ text
+         ✅ password
+         ✅ datepicker
+         ✅ email
+         ✅ textarea
+
+
+
+
+
+
+
+
