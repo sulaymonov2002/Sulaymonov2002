@@ -1,0 +1,30 @@
+----------- 11.02.22 ----------- (18)
+
+1 -> Checking Homeworks  👍🏻
+2 -> Repeat last lesson
+3 -> Grid Continue
+      🔷 Child Properties
+            ✅ grid-column       : start-value / end-value
+            ✅ grid-row          : start-value / end-value
+            ✅ grid-area         : <name> | row-start / column-start / row-end / column-end
+            ✅ justify-self
+            ✅ align-self
+            ✅ place-self        : align-self / [justify-self]
+
+      🔷 Explicit and Implicit Grids
+            ✅ grid-auto-columns : <track-size> ...;
+            ✅ grid-auto-rows    : <track-size> ...;
+            ✅ grid-auto-flow
+
+      🔷 Sizing Functions
+            ✅ minmax
+            ✅ repeat
+                 🎁 auto-fill
+                 🎁 auto-fit
+4 -> Practice
+
+
+
+
+
+

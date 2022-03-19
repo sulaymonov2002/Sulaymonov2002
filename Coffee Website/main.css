@@ -1,0 +1,290 @@
+@import url(utils.css);
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+
+/* NAVBAR SECTION STARTS */
+
+.navbar {
+  background: var(--bg);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5em 7%;
+  border-bottom: var(--border);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  font-size: 18px;
+}
+
+.brand .logo {
+  height: 6rem;
+}
+
+.nav__list1 {
+  display: flex;
+  gap: 10px;
+  list-style-type: none;
+}
+.nav__list2 {
+  display: flex;
+  gap: 10px;
+  list-style-type: none;
+}
+.hero {
+  display: flex;
+  gap: 10px;
+}
+.hero .icons {
+  cursor: pointer;
+  margin-left: 2rem;
+}
+
+.nav-item .nav-link {
+  margin: 0 1rem;
+  color: var(--white);
+}
+.nav-item .nav-link:hover {
+  color: var(--main-color);
+  border-bottom: 0.1rem solid var(--main-color);
+  padding-bottom: 0.4rem;
+}
+/* MEDIA QUERIES */
+
+.navbar {
+  padding: 1.5rem 10rem;
+}
+/* NAVBAR SECTION ENDS */
+
+/* === HOME SECTION STARTS === */
+.home {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  background: url(/images/Rectangle\ 12.png) no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.home {
+  padding-top: 1rem;
+}
+
+.home .content h1 {
+  font-size: 72px;
+  line-height: 130%;
+  color: var(--white);
+}
+
+.home .content h3 {
+  font-family: "Urbanist";
+  font-size: 2rem;
+  font-weight: lighter;
+  line-height: 1.8;
+  color: rgba(255, 255, 255, 0.8);
+  text-transform: capitalize;
+  padding: 2rem 0;
+}
+
+/* === HOME SECTION ENDS === */
+
+/* === ABOUT SECTION === */
+.about {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(5rem, 1fr));
+
+  margin-top: 20rem;
+  padding: 0 25rem;
+}
+
+.about .best-coffee img {
+  width: 350px;
+  height: 330px;
+}
+
+.about .best-coffee h3 {
+  width: 222px;
+  height: 30px;
+  font-size: 24px;
+  line-height: 30px;
+
+  color: var(--white);
+}
+/* === ABOUT SECTION ENDS === */
+
+/* === OUR HISTORY STARTS === */
+.our-history {
+  padding-top: 12%;
+
+  width: 100%;
+  display: grid;
+  grid-template-columns: 40% 35%;
+  justify-content: center;
+  gap: 5vh;
+}
+.boxe-left{
+  row-gap: 10%;
+  display: grid;
+  height: 60vh;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 58%;
+  grid-template-areas:
+    "left3-foto1 left3-foto2"
+    "left3-foto3 left3-foto2";
+}
+.box-right {
+  height: 78vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color:var(--black);
+  padding: 5vh;
+  gap: 15px;
+}
+.paragraph {
+  font-size: 16px;
+  color: #fff8;
+}
+.yellow-paragraph {
+  font-size:18px;
+  color: var(--main-color);
+}
+.for-h1 {
+ color: var(--white);
+  font-size: 500%;
+}
+
+/* === OUR HISTORY ENDS === */
+
+
+/* === HEADER SECTION-4=== */
+.header4 {
+  padding-top: 10%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.uchtalidiv {
+  padding-top: 5%;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  column-gap: 3%;
+}
+.qop {
+  width: 20%;
+  height: 55vh;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2%;
+}
+#qop1{
+  
+  gap: 5.1%;
+}
+.qop>:first-child{
+  width: 60%;
+  height: auto;
+}
+.qop h1{
+  font-size: 150%;
+  color: var(--white);
+}
+
+.price{
+  display:flex;
+  align-items: center;
+}
+.stars{
+  width: 50%;
+  height: auto;
+}
+/* === COFFEE MACHINE STARTS === */
+.header5{
+  margin-top: 8%;
+  display: flex;
+  width: 100%;
+  height: 70vh;
+  justify-content: center;
+  align-items: center;
+}
+.background{
+  display: flex;
+  width: 80%;
+  height: 60vh;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--black);
+}
+.left5{
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
+.right5{
+  
+  width: 50%;
+}
+/* === COFFEE MACHINE ENDS === */
+
+
+/* === MENU STARTS === */
+.menu
+{
+  cursor: pointer;
+  display: flex;
+  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+}
+/* === MENU ENDS === */
+
+/* === TESTIMONIAL STARTS === */
+.customers{
+  cursor: pointer;
+  display: flex;
+  margin-top: 50px;
+  justify-content: center;
+  align-items: center;
+}
+/* === TESTIMONIAL ENDS === */
+
+
+.booking-table{
+  
+  cursor: pointer;
+  display: flex;
+  margin-top: 50px;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.testimonial-2{
+  cursor: pointer;
+  display: flex;
+  margin-top: 50px;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer{
+  cursor: pointer;
+  display: flex;
+  margin-top: 50px;
+  justify-content: center;
+  align-items: center;
+}
+
+
+@media screen and(min-width: 576px) {
+  .navbar .navbar-list1{
+    display: none;
+  }
+}

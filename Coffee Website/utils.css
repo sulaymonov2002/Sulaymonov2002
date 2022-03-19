@@ -1,0 +1,55 @@
+
+:root{
+    --main-color:#C99E71;
+    --black: #13131a;
+    --bg:#010103;
+    --border:.1rem solid rgba(255, 255, 255, .3);
+    --white:#fff;
+}
+
+*{
+    font-family: 'Righteous', sans-serif;
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    outline: none; 
+    border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: .2s linear;
+  }
+  html{
+      font-size: 62.5%;
+      overflow-x:hidden ;
+      scroll-padding-top: 9rem;
+      scroll-behavior: smooth;
+  }
+  html::-webkit-scrollbar{
+      width: .8rem;
+  }
+  html::-webkit-scrollbar-track{
+   background:transparent;
+}
+html::-webkit-scrollbar-thumb{
+    background:var(--white);
+    border-radius: 5rem;
+ }
+ body{
+   background: var(--bg);
+ }
+ .container{
+     padding: 0 20rem;
+ }
+
+ .btn{
+     margin-top: 2rem;
+     display: inline-block;
+     padding: 1.5rem 3rem;
+     font-size: 18px;
+     color: #fff;
+     background:var(--main-color);
+     cursor: pointer;
+
+ }
+ .btn:hover{
+     letter-spacing: .1rem;
+ }
