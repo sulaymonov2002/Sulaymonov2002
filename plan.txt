@@ -1,0 +1,37 @@
+----------- 14.02.22 ----------- (19)
+
+1 -> Checking Homeworks
+2 -> Code Review
+3 -> Practice Grid
+        ✅ https://cssgridgarden.com/
+
+4 -> Hiding Elements
+       🔷 visibility
+            ✅ visible (default)
+            ✅ hidden
+5 -> Media Queries
+       🔷 At Rules
+            ✅ @media
+            ✅ @import
+            ✅ @keyframe
+            ✅ @font-face
+       🔷 Write Media Query code
+       🔷 Breakpoints
+       🔷 Using Image
+            ✅ Popular css code for image
+                🎁 img { width: 100%; display: block }
+6 -> Practice Media Queries
+            ✅ https://www.figma.com/file/6vLCZnDbs0Zvh3vjLGe098/PDP-18?node-id=2281%3A78
+            ✅ 
+
+
+
+
+
+
+
+
+
+
+
+
