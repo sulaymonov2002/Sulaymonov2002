@@ -1,0 +1,28 @@
+:root {
+  --pad: 15px;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.boxes {
+  display: flex;
+  padding: var(--pad);
+  width: 100%;
+  column-gap: var(--pad);
+}
+
+.box {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  row-gap: var(--pad);
+}
+
+.box img {
+  width: 100%;
+}

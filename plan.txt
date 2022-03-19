@@ -1,0 +1,57 @@
+----------- 03.02.22 ----------- (12)
+
+1 -> Checking Homeworks 👍🏻
+
+2 -> Code-Review(Dilshodbek, Murtozxon) 👎🏻
+
+3 -> Layout
+      🔷 FlexBox
+        🏆 Properties for the Parent
+            ✅ flex-direction
+                🎁 row | row-reverse
+                🎁 column | column-reverse
+            ✅ flex-wrap
+                 🎁 nowrap
+                 🎁 wrap
+                 🎁 wrap-reverse
+
+            ✅ flex-flow
+
+            ✅ Axes
+                x-axes
+                y-axes
+
+            ✅ align-items
+                🎁 flex-start
+                🎁 flex-end
+                🎁 center
+                🎁 stretch
+                🎁 baseline
+            ✅ justify-content
+                🎁 start
+                🎁 end
+                🎁 flex-start
+                🎁 flex-end
+                🎁 center
+                🎁 stretch
+                🎁 space-between
+                🎁 space-evenly
+                🎁 space-around
+            ✅ align-content
+                🎁 flex-start
+                🎁 flex-end
+                🎁 center
+                🎁 stretch
+                🎁 space-between
+                🎁 space-evenly
+                🎁 space-around
+
+        🏆 Properties for the Children
+            ✅ order
+            ✅ flex-grow
+            ✅ align-self
+                🎁 flex-start
+                🎁 flex-end
+                🎁 center
+                🎁 stretch
+                🎁 baseline
