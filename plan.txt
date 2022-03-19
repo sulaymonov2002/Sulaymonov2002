@@ -1,0 +1,8 @@
+----------- 08.02.22 ----------- (15)
+
+1 -> Checking Homeworks
+2 -> Code-Review
+3 -> Practices
+       ✅ URL:  https://www.figma.com/file/yeKMC670QCCnvYWHW896fs/Untitled?node-id=0%3A1
+4 -> Using Github
+5 -> Deploying Our Site

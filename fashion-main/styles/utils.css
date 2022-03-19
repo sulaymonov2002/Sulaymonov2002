@@ -1,0 +1,37 @@
+:root {
+  --dark-pink: #f15d78;
+  --light-pink: #f36d86;
+  --dark-blue: #1f2743;
+  --dark: #252424;
+}
+
+* {
+  font-family: Prompt;
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 0 80px;
+}
+
+.dark-btn {
+  border: none;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 16px 33px;
+  background: var(--dark-blue);
+  box-shadow: 0px 12px 33px rgba(31, 39, 67, 0.2);
+  border-radius: 6px;
+  color: #fff;
+  cursor: pointer;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
