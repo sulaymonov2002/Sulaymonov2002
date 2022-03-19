@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  background-color: dodgerblue;
+  padding: 1rem;
+}
+
+h1 {
+  font-size: 80px;
+  font-family: monospace;
+}

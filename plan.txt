@@ -1,0 +1,31 @@
+----------- 18.02.22 ----------- (23)
+
+1 -> Checking Homeworks
+2 -> Code review
+
+3 -> Images
+       🔷 Background Images
+           ✅ background-image
+           ✅ background-repeat
+           ✅ background-position
+           ✅ background-size
+           ✅ background-attachment
+               🎁 local
+               🎁 fixed
+               🎁 scroll
+
+       🔷 Image Filter Functions
+           ✅ https://css-tricks.com/almanac/properties/f/filter/
+
+       🔷 animation example with js
+
+4 -> Forms
+
+
+
+
+
+
+
+
+
