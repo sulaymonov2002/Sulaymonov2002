@@ -6,7 +6,7 @@
 
 <br>
 
-- 🔭 I’m currently focused on learning **NextJS & NodeJS**.
+- 🔭 I’m currently focused on learning **ReactJS & TypeScript & NextJS**.
 
 - ⚡ Currently doing an 180° from Apps to **Full Stack Web Development**.
 
