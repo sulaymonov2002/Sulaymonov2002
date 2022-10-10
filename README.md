@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <br>
 <p align="left">
-<a title='LinkedIn Profile' href="https://twitter.com/ssamir_20" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="georgiosanagnostou93"height="29.5" width="100" /></a>&nbsp;
+<a title='LinkedIn Profile' href="https://twitter.com/ssamir_20" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="ssamir_20"height="29.5" width="100" /></a>&nbsp;
 &nbsp;<a title='Twitter Profile' href="https://twitter.com/developedbygeo" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="developedbygeo" height="29.5" width="100" /></a>&nbsp;
 &nbsp;<a title='Medium Profile' href="https://medium.com/@developedbygeo" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="@developedbygeo"height="29.5" width="100" /></a>
 </p>
