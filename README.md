@@ -1,7 +1,7 @@
 -<h1 align="center">Hi 👋, I'm Raxmonbek</h1>
 <h3 align="center">A dedicated & passionate Front End Web Developer</h3>
 <br>
-<p align="center"> <a href="https://twitter.com/ssamir_20" target="_blank"><img src="https://img.shields.io/twitter/follow/developedbygeo?logo=twitter&style=for-the-badge" alt="developedbygeo" /></a> </p>
+<p align="center"> <a href="https://twitter.com/ssamir_20" target="_blank"><img src="https://img.shields.io/twitter/follow/ssamir_20?logo=twitter&style=for-the-badge" alt="ssamir_20" /></a> </p>
 <br>
 <br>
 
