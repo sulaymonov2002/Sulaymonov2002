@@ -3,16 +3,14 @@
 <br>
 <p align="center"> <a href="https://twitter.com/ssamir_20" target="_blank"><img src="https://img.shields.io/twitter/follow/ssamir_20?logo=twitter&style=for-the-badge" alt="ssamir_20" /></a> </p>
 <br>
-<br>
 
 <br>
-- 
-- 
-- 👋 Hi, I’m @Sulaymonov2002
-- 👀 I’m interested in coding learning reading and chess
-- 🌱 I’m currently learning ReactJs and Node.js
-- 💞️ I’m looking to collaborate on Frontend Company
-- 📫 How to reach me ssamir.web2002@gmail.com
+
+- 🔭 I’m currently focused on learning **NextJS & NodeJS**.
+
+- ⚡ Currently doing an 180° from Apps to **Full Stack Web Development**.
+
+- 📫 You can reach me at any point through **ssamir.web2002@gmail.com** or through my social media.
 
 <!---
 Sulaymonov2002/Sulaymonov2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
