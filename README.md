@@ -1,3 +1,12 @@
+-<h1 align="center">Hi 👋, I'm Raxmonbek</h1>
+<h3 align="center">A dedicated & passionate Front End Web Developer</h3>
+<br>
+<p align="center"> <a href="https://twitter.com/developedbygeo" target="_blank"><img src="https://img.shields.io/twitter/follow/developedbygeo?logo=twitter&style=for-the-badge" alt="developedbygeo" /></a> </p>
+<br>
+
+<br>
+- 
+- 
 - 👋 Hi, I’m @Sulaymonov2002
 - 👀 I’m interested in coding learning reading and chess
 - 🌱 I’m currently learning ReactJs and Node.js
