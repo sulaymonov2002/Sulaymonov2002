@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sulaymonov2002
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ReactJs
+- 👀 I’m interested in coding learning reading and chess
+- 🌱 I’m currently learning ReactJs and Node.js
 - 💞️ I’m looking to collaborate on Frontend Company
 - 📫 How to reach me ssamir.web2002@gmail.com
 
