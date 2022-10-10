@@ -12,7 +12,16 @@
 
 - 📫 You can reach me at any point through **ssamir.web2002@gmail.com** or through my social media.
 
-<!---
-Sulaymonov2002/Sulaymonov2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<br>
+<p align="left">
+<a title='LinkedIn Profile' href="https://developedbygeo.com/" target="_blank"><img align="center" src="https://img.shields.io/static/v1?label&message=Portfolio&color=purple" alt="developedbygeo.com" height="29.5" width="100" /></a>&nbsp;
+<a title='LinkedIn Profile' href="https://linkedin.com/in/georgiosanagnostou93" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="georgiosanagnostou93"height="29.5" width="100" /></a>&nbsp;
+&nbsp;<a title='Twitter Profile' href="https://twitter.com/developedbygeo" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="developedbygeo" height="29.5" width="100" /></a>&nbsp;
+&nbsp;<a title='Medium Profile' href="https://medium.com/@developedbygeo" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="@developedbygeo"height="29.5" width="100" /></a>
+</p>
+
+<br>
