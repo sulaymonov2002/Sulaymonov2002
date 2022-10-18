@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Raxmonbek</h1>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h1 align="center">Hi 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Raxmonbek</h1>
+
 <h3 align="center">A dedicated & passionate Front End Web Developer</h3>
 <br>
 <p align="center"> <a href="https://twitter.com/ssamir_20" target="_blank"><img src="https://img.shields.io/twitter/follow/ssamir_20?logo=twitter&style=for-the-badge" alt="ssamir_20" /></a> </p>
