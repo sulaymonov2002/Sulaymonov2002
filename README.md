@@ -22,7 +22,7 @@
 <a title='LinkedIn Profile' href="https://www.linkedin.com/in/rahmonqul-sulaymonov-4a500b235/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="ssamir_20"height="29.5" width="100" /></a>&nbsp;
 &nbsp;<a title='Twitter Profile' href="https://twitter.com/ssamir_20" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="ssamir_20" height="29.5" width="100" /></a>&nbsp;
 &nbsp;
-<a href="https://instagram.com/insta_meo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta_meo1" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ssamir_20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta_meo1" height="30" width="40" /></a>
 
 </p>
 
